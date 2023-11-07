@@ -36,7 +36,5 @@ This project aims to predict the stock price of a specific company using histori
 
 This project is based on open-source code and resources from various contributors in the field of machine learning and finance. We acknowledge and appreciate their contributions.
 
-## License
 
-This project is distributed under the [MIT License](LICENSE).
 
